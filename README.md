@@ -1,6 +1,16 @@
 # Url-Shorten-Worker
 A URL Shortener created using Cloudflare Worker
 
+# Some update
+
+### deplpy gh-pages to Cloudflare pages
+
+https://shorten.pages.dev
+
+### Replace 
+
+line 87 index.js
+
 # Getting start
 ### 去Workers KV中创建一个命名空间
 
